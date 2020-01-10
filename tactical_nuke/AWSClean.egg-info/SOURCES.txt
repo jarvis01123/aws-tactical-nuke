@@ -1,0 +1,7 @@
+aws-clean
+setup.py
+src/AWSClean.egg-info/PKG-INFO
+src/AWSClean.egg-info/SOURCES.txt
+src/AWSClean.egg-info/dependency_links.txt
+src/AWSClean.egg-info/requires.txt
+src/AWSClean.egg-info/top_level.txt
